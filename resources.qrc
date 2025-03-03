@@ -1,5 +1,0 @@
-<RCC>
-    <qresource prefix="/plugins/Reservoir_Capacity_Change" >
-        <file>icon.png</file>
-    </qresource>
-</RCC>
